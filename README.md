@@ -122,7 +122,7 @@ visualization.
 
 ![Blender sample screen](blenderscreen.jpg)
 
-# Blender resources:
+## Blender resources:
 
 *   [BlenderGuru](http://blenderguru.com)			
 *   [CG Cookie](http://cgcookie.com/blender/)			
@@ -141,12 +141,12 @@ visualization.
 *   [Metalix](https://www.cv.nrao.edu/~bkent/computing/metalix.co.nz/tutorials/)
 
 
-# Videos and Tutorials:
+## Videos and Tutorials:
 
 [https://www.youtube.com/user/VisualizeAstronomy/videos](https://www.youtube.com/user/VisualizeAstronomy/videos)
 
 
-# Publications:
+## Publications:
 
 3D Scientific Visualization with Blender: \
 [https://iopscience.iop.org/book/978-1-6270-5612-0](https://iopscience.iop.org/book/978-1-6270-5612-0)
