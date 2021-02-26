@@ -120,7 +120,7 @@ frame rate to 30 frames per second.
 Click the ‘Animation’ button at the top of the tab to render the
 visualization.
 
-
+![Blender sample screen](blenderscreen.jpg)
 
 # Blender resources:
 
