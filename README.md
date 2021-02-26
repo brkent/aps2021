@@ -13,10 +13,10 @@ video.mp4
 ## March 2021 American Physical Society Conference
 
 _Requirements:_  
- - Linux, Windows, or Mac computer (laptop is sufficient) \
- - Blender download ([https://download.blender.org/release/Blender2.78/](https://download.blender.org/release/Blender2.78/) ) \
- - Data:  Extragalactic Distance Database ([http://edd.ifa.hawaii.edu/](http://edd.ifa.hawaii.edu/)) \
- - Basic knowledge of Python \
+ - Linux, Windows, or Mac computer (laptop is sufficient)
+ - Blender download ([https://download.blender.org/release/Blender2.78/](https://download.blender.org/release/Blender2.78/) )
+ - Data:  Extragalactic Distance Database ([http://edd.ifa.hawaii.edu/](http://edd.ifa.hawaii.edu/))
+ - Basic knowledge of Python
  - This Git repository:   **git clone https://github.com/brkent/aps2021.git**
 
 We can render the positions of objects in 3D space - in this case the locations of galaxies in the nearby Universe from the extragalactic distance database.  This tutorial will use the following concepts:
@@ -31,15 +31,15 @@ The following steps will set up this visualization.
 
 
 
-*   Add a plane with Add → Mesh → Plane. Scale the plane with the S key and press TAB to  \
-enter Mesh Edit mode. Subdivide the plane five times and press TAB one more time  \
+*   Add a plane with Add → Mesh → Plane. Scale the plane with the S key and press TAB to 
+enter Mesh Edit mode. Subdivide the plane five times and press TAB one more time 
 to again return to Object mode.
-*   Add a material to the plane mesh on the Properties panel and set the type to \
-‘Wire’. Choose a color that contrasts well with the background—blue on \
+*   Add a material to the plane mesh on the Properties panel and set the type to
+‘Wire’. Choose a color that contrasts well with the background—blue on
 black usually works well.
 *   Set the ‘Emit’ value to 1.5
 *   Set the World tab background horizon color on the Properties panel to black.
-*   Add a simple mesh with Add → Mesh → Circle. Press TAB to enter Mesh Edit mode, SHIFT select all but one of the vertices and press X to remove them.  \
+*   Add a simple mesh with Add → Mesh → Circle. Press TAB to enter Mesh Edit mode, SHIFT select all but one of the vertices and press X to remove them. 
 Press TAB one more time to go back to Object mode.
 
     ```
@@ -80,7 +80,7 @@ The data should load quickly. We can now add a material to the galaxy catalog da
 
 
 *   Select the data points and click the Materials tab on the Properties panel.
-*   Select ‘Halo’ and change the size value to 0.005 and hardness value to 100. \
+*   Select ‘Halo’ and change the size value to 0.005 and hardness value to 100.
 A white or light yellow color can be used to color the points.
 
 We can now use the default camera object to point at an Empty Object.
@@ -88,22 +88,22 @@ We can now use the default camera object to point at an Empty Object.
 
 
 *   Add an empty object with Add → Empty → Plain Axes for the camera to track.
-*   Right-click to choose the camera object and set the position and rotation  \
+*   Right-click to choose the camera object and set the position and rotation 
 values on the Transform toolbar to zero.
 *   Click the Constraints tab on the right-hand side Properties panel.
 *   Choose ‘Track To’ and select the target as ‘Empty’.
-*   Select ‘To’ as –Z and ‘Up’ as Y. This will correctly orient the upward and normal  \
+*   Select ‘To’ as –Z and ‘Up’ as Y. This will correctly orient the upward and normal 
 directions when looking through the camera field of view.
 
 Animate the visualization by keyframing the camera.
 
 
 
-*   This animation will be 20 s long at 30 frames per second. Set the number of  \
+*   This animation will be 20 s long at 30 frames per second. Set the number of 
 frames to 600 and set the current frame to 1.
-*   Right-click to select the camera and press the I key to keyframe the position \
+*   Right-click to select the camera and press the I key to keyframe the position
 and rotation of the camera.
-*   On the Animation toolbar, set the current frame to 600. Move the camera in \
+*   On the Animation toolbar, set the current frame to 600. Move the camera in
 the 3D view port to a different location and orientation.
 *   Keyframe the camera position and rotation one final time with the I key.
 
@@ -111,13 +111,13 @@ The visualization can now be exported in a 1080p HD video.
 
 
 
-*   On the Render tab (Render->Open GL on OSX)  in the Properties panel select HDTV 1080p and set the  \
+*   On the Render tab (Render->Open GL on OSX)  in the Properties panel select HDTV 1080p and set the 
 frame rate to 30 frames per second.
 
 
 
-*   Set the output to AVI JPEG, quality 100 percent, and specify a unique filename.  \
-Click the ‘Animation’ button at the top of the tab to render the \
+*   Set the output to AVI JPEG, quality 100 percent, and specify a unique filename. 
+Click the ‘Animation’ button at the top of the tab to render the
 visualization.
 
 
