@@ -126,19 +126,14 @@ visualization.
 
 *   [BlenderGuru](http://blenderguru.com)			
 *   [CG Cookie](http://cgcookie.com/blender/)			
-*   [CG Tuts](http://cg.tutsplus.com/category/tutorials/blender/) 
 *   [Blender Materials](http://matrep.parastudios.de/)		
 *   [Tutorials and Modelling](http://bensimonds.com/tutorials/)
-*   [Blender Magician](http://blendermagician.blogspot.com/) 
-*   [3D Design Course](http://gryllus.net/Blender/3D.html)		
 *   [Wiki Book](http://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro)			
 *   [BlenderDiplom](http://blenderdiplom.com/)
 *   [BlenderNation](http://www.blendernation.com)			
 *   [Blendtuts](http://www.blendtuts.com/)			
-*   [Lighting Tutorial](http://www.yafaray.org/documentation/tutorials/studiolighting)
-*   [Blenderpedia](http://www.blenderpedia.com/)			
 *   [Blender Models](http://www.blender-models.com/)		
-*   [Metalix](https://www.cv.nrao.edu/~bkent/computing/metalix.co.nz/tutorials/)
+
 
 
 ## Videos and Tutorials:
