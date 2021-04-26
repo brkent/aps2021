@@ -10,7 +10,7 @@ edd.txt
 video.mp4
 
 
-## March 2021 American Physical Society Conference
+## [https://march.aps.org/program/t5-data-analysis-and-modern-visualization/](March 2021 American Physical Society Conference)
 
 _Requirements:_  
  - Linux, Windows, or Mac computer (laptop is sufficient)
