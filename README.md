@@ -10,9 +10,10 @@ edd.txt
 video.mp4
 
 
-## [https://march.aps.org/program/t5-data-analysis-and-modern-visualization/](March 2021 American Physical Society Conference)
+## March 2021 American Physical Society Conference
 
 _Requirements:_  
+ - [https://march.aps.org/program/t5-data-analysis-and-modern-visualization/](Conference website)
  - Linux, Windows, or Mac computer (laptop is sufficient)
  - Blender download ([https://download.blender.org/release/Blender2.78/](https://download.blender.org/release/Blender2.78/) )
  - Data:  Extragalactic Distance Database ([http://edd.ifa.hawaii.edu/](http://edd.ifa.hawaii.edu/))
